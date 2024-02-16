@@ -8,7 +8,7 @@ input {
     width: 30em;
 }
 
-.submit-button {
+input[type="submit"], .submit-button {
     margin: 1em 0;
 }
 
